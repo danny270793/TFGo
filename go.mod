@@ -1,3 +1,3 @@
-module github.io/danny270793/tfgo
+module github.com/danny270793/tfgo
 
-go 1.18
+go 1.13

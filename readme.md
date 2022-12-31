@@ -66,8 +66,6 @@ Or search when the variables declared are ussed
 tfgo variables ussage -path ./path/to/modules/folder
 ```
 
-![command output](./images/output.png)
-
 ## Follow me
 
 * [Facebook](https://www.facebook.com/danny.vaca.9655)
