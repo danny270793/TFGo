@@ -8,7 +8,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.io/danny270793/tfgo/logger"
+	"github.com/danny270793/tfgo/logger"
 )
 
 type Ussage struct {
