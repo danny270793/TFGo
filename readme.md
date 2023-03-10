@@ -73,7 +73,7 @@ tfgo variables ussage -path ./path/to/modules/folder
 
 ## LICENSE
 
-Licensed under the [MIT](license.md) License.
+Licensed under the [MIT](license.md) License
 
 ## Version
 
